@@ -1,0 +1,3 @@
+# Chocolate Company Data
+
+This dataset contains comprehensive sales and operational data from a chocolate manufacturer. The data is organized into dimensional tables covering channels, dates, geography, products, and promotions, along with a fact table capturing sales transactions. It includes information about sales performance across different regions, product categories, and promotional campaigns. The dataset enables analysis of market trends, product performance, and geographical distribution of chocolate sales. This structured data supports business intelligence and decision-making for optimizing sales strategies and inventory management.
